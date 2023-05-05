@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SubhadeepDhar17
-- 👀 I’m interested in coding, trading and basically helping peopple. I really want to make the world a better place.
-- 🌱 I’m currently learning Android studio.
-- 💞️ I’m looking to collaborate on projects on Machine learning.
+- 👀 I’m interested in coding, trading and marketing.
+- 🌱 I’m currently learning React.
+- 💞️ I’m looking for people to launch my SMMA with.
 - 📫 How to reach me - email - subhadeepdhar1712@gmail.com
 
 <!---
